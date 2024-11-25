@@ -45,8 +45,8 @@ A luxury perfume shop website featuring a sleek design and functionality for exp
 
 ### 📫 Get in Touch  
 
-- **GitHub**: https://github.com/srividyakota03 
-- **LinkedIn**: https://www.linkedin.com/in/srividyakota/
+- **GitHub**: [srividyakota03](https://github.com/srividyakota03)
+- **LinkedIn**: [linkedin.com/in/srividyakota](https://www.linkedin.com/in/srividyakota/)
 - **Email**: srividyakota03@gmail.com
 
 ---
