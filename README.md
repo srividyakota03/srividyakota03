@@ -5,7 +5,8 @@
 - **Problem Solving**  
 - **Programming Languages**:  
   - C, C++  
-  - Python  
+  - Python
+  - R 
   - JavaScript  
   - HTML / CSS  
 - **Frameworks & Libraries**:  
@@ -26,10 +27,10 @@ A Python-based project that hides secret messages within images by encoding data
 **Skills**: Python Programming, Data Encoding/Decoding, Image Processing  
 **Tools**: Python, Pillow (PIL), Text Editor/IDE  
 
-### **MEMORAI-FLIP**  
-An interactive memory game created using Java Swing, where players match hidden image pairs to test their memory skills.  
-**Skills**: Java, OOP, Event-driven Programming, GUI Development, Debugging  
-**Tools**: Java JDK, Java Swing & AWT, IDE (Eclipse), Image Processing Software  
+### **Solar Power Predection**  
+A machine learning-based Solar Power Prediction System that estimates solar energy output using weather parameters like irradiance, temperature, humidity, and wind speed. Features an interactive Streamlit web application for real-time predictions and data visualization. Incorporates data preprocessing, feature engineering, and model optimization for improved accuracy, with deployment on Streamlit Cloud for accessibility.
+**Skills**: Machine Learning (Regression Analysis), Data Preprocessing & Feature Engineering, Model Evaluation & Optimization, Data Visualization, Web Application Development, Cloud Deployment.
+**Tools**: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit, Streamlit Cloud, GitHub.
 
 ### **STOCK-VIZ-FORECAST**  
 A web application for stock price visualization and forecasting, integrating real-time and historical data from financial APIs.  
